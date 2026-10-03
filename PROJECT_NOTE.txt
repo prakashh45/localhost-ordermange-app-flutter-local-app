@@ -1,0 +1,1 @@
+This source package contains the Flutter/Dart application layer. Run `flutter create .` once inside the folder to generate/update the standard Android/iOS platform folders, then run `flutter pub get` and `flutter run`.
